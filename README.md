@@ -5,3 +5,4 @@
 
 # Hodnoceni
 - 12/15
+- spatne zpracovani bitset_getbit (ne dle zadani), chybi straze hlavickovych souboru, spatna prace s pameti (stacil calloc)
